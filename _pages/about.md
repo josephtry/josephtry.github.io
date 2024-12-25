@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office #1</p>
+    <p>100 Easy St</p>
+    <p>Philadelphia, Pennsylvania 19104</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -23,3 +23,7 @@ Write your biography here. Tell the world about yourself. Link to your favorite 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+Joseph John Trybala III, an aspiring academic tilting at windmills, seeking to find meaning in work. I am disconnected from social media in a big way, the worst you'll find me on is LinkedIn.
+
+This github page is meant to serve as a kind of directory to all things me. Consider this a living document. It is not finished, and honestly should remain unfinished as long as possible. If I ever claim its finished, please call someone as I need help. Provided I haven't been slacking, this should be relatively up to date with my projects.
