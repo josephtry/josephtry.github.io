@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'></a> "Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth." 
-- Oscar Wilde
+subtitle: <a href='#'></a> "Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth." - Oscar Wilde
 
 profile:
   align: right
