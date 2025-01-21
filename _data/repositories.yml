@@ -1,10 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - josephtry
+  -torvalds
 
 repo_description_lines_max: 2
 
 github_repos:
+  - josephtry/josephtry.github.io
   - alshedivat/al-folio
   - jekyll/jekyll
   - twbs/bootstrap
