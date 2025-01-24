@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: [CV.pdf](https://docs.google.com/document/d/1gjy8I3hp-CiV3TRjXdj9-akdg_H5aB8s/edit?usp=sharing&ouid=112049618749837900754&rtpof=true&sd=true) # you can also use external links here
+description: Below is my CV. Look at it. Now.
 toc:
   sidebar: left
 ---
