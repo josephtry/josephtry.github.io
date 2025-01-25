@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'></a> *"Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth."* - Oscar Wilde
+subtitle: <a href='#'></a> <p><b>Online Identity | Toxicity | Social Computing | Human Computer Interaction (HCI)</b></p> <p><i>"Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth."</i> - Oscar Wilde</p>
 
 profile:
   align: right
