@@ -15,7 +15,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Information Science
+    - title: (Ongoing) PhD in Information Science
       institution: University of Colorado Boulder, Boulder, Colorado
       year: 2025 - now
       description:
@@ -27,6 +27,22 @@
     - title: Bachelor of Science in Computer and Information Science
       institution: Stockton University, Galloway, New Jersey
       year: 2015 - 2019
+
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Member of?
+      institution: IDentity Lab, Department of Information Science, University of Colorado Boulder
+      year: 2025 - now
+      description:
+        - Advisor Dr. Jed Brubaker.
+        - I hang around. Should probably do some work here at some point.
+        - title: Current Projects
+          contents:
+            - "Account Value Perception in MMOs (In Collaboration with Sid Cook)"
+            - "v2 of Enviromental Scan of Post Mortem Support (In Collaboration with Dr. Brubaker and Dr. Doyle)"
+            - "Digital Legacy Clinic (On-going Support)"
+
 
 - title: Research Experience
   type: time_table
@@ -49,16 +65,13 @@
 - title: Teaching
   type: time_table
   contents:
-    - title: Graduate Teaching Assistant
-      institution: University of Colorado Boulder, Boulder, Colorado
-      year: 2026 - now
     - title: Graduate Part-Time Instructor (GPTI)
       institution: Drexel University, Philadelphia, Pennsylvania
       year: Summer 2026
       description:
         - INFO 1101 Computation in Society (~20 students)
-    - title: Teaching Assistant
-      institution: Drexel University, Philadelphia, Pennsylvania
+    - title: Graduate Teaching Assistant
+      institution: University of Colorado Boulder, Boulder, Colorado
       year: 2025 - 2026
       description:
         - INFO 1201 Computational Reasoning, Fall 2025, Prof. Chris Carruth (~120 students)
@@ -114,7 +127,7 @@
   type: time_table
   contents:
     - title: RSO Advisor, Chess & Chow Club
-      institution: Drexel University
+      institution: University of Colorado Boulder
       year: 2025 - 2026
     - title: IEEE Student Chapter President
       institution: Stockton University
