@@ -417,15 +417,7 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-graduated-from-stockton-university-with-a-bachelors-in-computer-science-and-information-systems",
+    },{id: "news-graduated-from-stockton-university-with-a-bachelors-in-computer-science-and-information-systems",
           title: 'Graduated from Stockton University with a Bachelors in Computer Science and Information Systems!...',
           description: "",
           section: "News",},{id: "news-first-published-work-support-in-short-form-investigating-tiktok-comments-on-videos-with-harassment",
@@ -433,6 +425,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-officially-graduated-from-drexel-university-with-a-masters-in-data-science",
           title: 'Officially graduated from Drexel University with a Masters in Data Science!',
+          description: "",
+          section: "News",},{id: "news-paper-accepted-at-chi-25-opaque-transparency-gaps-and-discrepancies-in-the-report-of-social-media-harms",
+          title: 'Paper accepted at CHI ‘25! “Opaque Transparency: Gaps and Discrepancies in the Report...',
+          description: "",
+          section: "News",},{id: "news-excited-to-begin-my-phd-in-information-science-at-the-university-of-colorado-boulder-advised-by-dr-jed-brubaker",
+          title: 'Excited to begin my PhD in Information Science at the University of Colorado...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
