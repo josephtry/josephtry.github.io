@@ -2,8 +2,8 @@
 layout: page
 title: Coming Soon
 description: More to come
-importance: 6
-category: research
+importance: 4
+category: personal
 ---
 
 More to come.
