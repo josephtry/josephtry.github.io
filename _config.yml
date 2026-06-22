@@ -631,16 +631,9 @@ third_party_libraries:
 # -----------------------------------------------------------------------------
 
 jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json # it can also be an url
+# - data: resume
+#   json: assets/json/resume.json # disabled in favor of _data/cv.yml
 jsonresume:
-  - basics
-  - work
-  - education
-  - publications
-  - projects
-  - volunteer
-  - awards
   - certificates
   - skills
   - languages
